@@ -1,0 +1,7 @@
+  - '+.googlevideo.com'
+  - '=software.download.prss.microsoft.com'
+  - '+.ahcdn.com'
+  - '+.huggingface.co'
+  - '+.olemovienews.com'
+  - '+.phncdn.com'
+  - '+.sharemods.com'
