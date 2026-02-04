@@ -1,6 +1,6 @@
 payload:
   - '+.googlevideo.com'
-  - '=software.download.prss.microsoft.com'
+  - '+.software.download.prss.microsoft.com'
   - '+.ahcdn.com'
   - '+.huggingface.co'
   - '+.olemovienews.com'
