@@ -1,0 +1,6 @@
+payload:
+#  - '+.175dt.com'
+#  - '+.filestore.app'
+  - '+.k2s.cc'
+#  - '+.liteapks.com'
+#  - '+.picstate.com'
